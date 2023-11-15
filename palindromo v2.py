@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 15 00:38:53 2023
-
-@author: and_p
-"""
 #este es un programa para saber si una palabra es un palindromo VERSION INTERACTIVO
 print("programa para saber si una palabra es un palidromo")
 
