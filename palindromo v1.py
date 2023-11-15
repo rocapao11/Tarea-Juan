@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 15 01:24:28 2023
-
-@author: and_p
-"""
 #programa para saber si una palabra es un palidromo
 print("programa para saber si una palabra es un palidromo")
 palabra="tacocat"
